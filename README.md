@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=stefan-ainetter&project=grasp_det_seg_cnn&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # End-to-end Trainable Deep Neural Network for Robotic Grasp Detection and Semantic Segmentation from RGB
 
 <p align="center">
